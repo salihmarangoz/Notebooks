@@ -6,3 +6,5 @@ Click the links below to open using **nbviewer.jupyter.org**:
 
 - [Monte Carlo Method](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/monte_carlo_method.ipynb)
 - [PCA Dimension Reduction](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/pca_dimension_reduction.ipynb)
+
+- [Matplotlib 3D Animation Plot](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/matplotlib_plot_3d.ipynb)
