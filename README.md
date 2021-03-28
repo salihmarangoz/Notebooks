@@ -8,3 +8,6 @@ Click the links below to open using **nbviewer.jupyter.org**:
 - [PCA Dimension Reduction](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/pca_dimension_reduction.ipynb)
 
 - [Matplotlib 3D Animation Plot](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/matplotlib_plot_3d.ipynb)
+
+- [Regularized Least Square (Closed form solution)](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/regularized_least_squares.ipynb)
+
