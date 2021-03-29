@@ -1,7 +1,7 @@
 # My Jupyter Notebooks / Notes
-Click the links below to open using **nbviewer.jupyter.org**:
+Click the links below to open (some of them) using **nbviewer.jupyter.org**:
 
-- [Markdown (Mathjax/HTML/etc.)](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/markdown_cheatsheet.ipynb)
+- [Markdown (Mathjax/HTML/etc.)](https://github.com/salihmarangoz/notebooks/blob/main/notebooks/markdown_cheatsheet.ipynb)
 
 - [Gaussian](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/gaussian.ipynb)
 - [Image Compression with SVD](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/image_compression_with_svd.ipynb)
