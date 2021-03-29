@@ -13,3 +13,4 @@ Click the links below to open (some of them) using **nbviewer.jupyter.org**:
 
 - [Regularized Least Square (Closed form solution)](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/regularized_least_squares.ipynb)
 
+- [Numerical Optimization](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/numerical_optimization.ipynb)
