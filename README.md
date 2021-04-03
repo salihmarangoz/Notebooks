@@ -1,5 +1,5 @@
 # My Jupyter Notebooks / Notes
-Click the links below to open (some of them) using **nbviewer.jupyter.org**:
+Sometimes there are videos in the notebooks. Click the links below to open (some of them) using **nbviewer.jupyter.org**. Github viewer doesn't show the embedded videos:
 
 - [Markdown (Mathjax/HTML/etc.)](https://github.com/salihmarangoz/notebooks/blob/main/notebooks/markdown_cheatsheet.ipynb)
 
