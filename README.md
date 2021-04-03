@@ -15,4 +15,7 @@ Click the links below to open (some of them) using **nbviewer.jupyter.org**:
 
 - [Numerical Optimization](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/numerical_optimization.ipynb)
 
+- [Numerical Optimization with PyTorch](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/numerical_optimization_with_pytorch.ipynb)
+
 - [2D Scan Matcher](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/2d_scan_matcher.ipynb)
+
