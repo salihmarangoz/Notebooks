@@ -19,3 +19,4 @@ Sometimes there are videos in the notebooks. Click the links below to open (some
 
 - [2D Scan Matcher](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/2d_scan_matcher.ipynb)
 
+- [PyTorch Optimizers](https://nbviewer.jupyter.org/github/salihmarangoz/notebooks/blob/main/notebooks/pytorch_optimizers.ipynb)
