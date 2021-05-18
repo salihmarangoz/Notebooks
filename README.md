@@ -1,7 +1,7 @@
 # My Jupyter Notebooks / Notes
-Sometimes there are videos in the notebooks. Click the links below to open (some of them) using **github-pages**. Github viewer doesn't show the embedded videos:
+Sometimes there are videos in the notebooks. Click the links below to open using **github-pages**. Github viewer doesn't show the embedded videos. For reference to the method: [github_ci_nbconvert](https://github.com/salihmarangoz/github_ci_nbconvert)
 
-- [Markdown (Mathjax/HTML/etc.)](https://github.com/salihmarangoz/notebooks/blob/main/notebooks/markdown_cheatsheet.ipynb)
+- [Markdown (Mathjax/HTML/etc.)](https://salihmarangoz.github.io/notebooks/markdown_cheatsheet.html)
 
 - [Gaussian](https://salihmarangoz.github.io/notebooks/gaussian.html)
 - [Image Compression with SVD](https://salihmarangoz.github.io/notebooks/image_compression_with_svd.html)
@@ -20,3 +20,4 @@ Sometimes there are videos in the notebooks. Click the links below to open (some
 - [2D Scan Matcher](https://salihmarangoz.github.io/notebooks/2d_scan_matcher.html)
 
 - [PyTorch Optimizers](https://salihmarangoz.github.io/notebooks/pytorch_optimizers.html)
+
